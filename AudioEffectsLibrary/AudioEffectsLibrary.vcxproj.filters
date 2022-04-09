@@ -48,6 +48,9 @@
     <ClCompile Include="WavFileManager.cpp">
       <Filter>Исходные файлы\Infrastructure</Filter>
     </ClCompile>
+    <ClCompile Include="SampleDataManager.cpp">
+      <Filter>Исходные файлы\Infrastructure</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="WavHeader.h">
@@ -66,6 +69,9 @@
       <Filter>Файлы заголовков\Models</Filter>
     </ClInclude>
     <ClInclude Include="WavFileManager.h">
+      <Filter>Файлы заголовков\Infrastructure</Filter>
+    </ClInclude>
+    <ClInclude Include="SampleDataManager.h">
       <Filter>Файлы заголовков\Infrastructure</Filter>
     </ClInclude>
   </ItemGroup>
