@@ -143,6 +143,7 @@
     <ClCompile Include="FmtHeader.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="RiffHeader.cpp" />
+    <ClCompile Include="SampleDataManager.cpp" />
     <ClCompile Include="Wav.cpp" />
     <ClCompile Include="WavFileManager.cpp" />
     <ClCompile Include="WavHeader.cpp" />
@@ -151,6 +152,7 @@
     <ClInclude Include="DataHeader.h" />
     <ClInclude Include="FmtHeader.h" />
     <ClInclude Include="RiffHeader.h" />
+    <ClInclude Include="SampleDataManager.h" />
     <ClInclude Include="Wav.h" />
     <ClInclude Include="WavFileManager.h" />
     <ClInclude Include="WavHeader.h" />
